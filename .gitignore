@@ -1,0 +1,12 @@
+#Ignore SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+#Ignore OS junk
+.DS_Store
+Thumbs.db
+
+#Ignore editor configs
+.vscode/
+.idea/
